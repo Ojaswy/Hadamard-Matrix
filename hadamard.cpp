@@ -1,3 +1,4 @@
+//The 'stars' represent black squares while the white squares are represented by 'space'
 #include <iostream>
 using namespace std;
 int main()
